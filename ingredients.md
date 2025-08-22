@@ -1,4 +1,6 @@
-the ingredients for Ashe-Reshteh
+
+Let's begin!
+ingredients for Ashe-Reshteh
 
 1-Beans
 2-Vegetables
@@ -6,4 +8,7 @@ the ingredients for Ashe-Reshteh
 4-Salt
 5-Peppet
 6-Turmeric7-fried onion
-7-fried mint
+
+Enjoy my recipe!
+
+
