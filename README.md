@@ -3,6 +3,8 @@
 # recipe
 line 2 changed remotely for second time to test it again
 <h3>Recipe number 1:Persian Soup</h3>
+[![Ash-Reshteh](/reciperepository/recipe/Ash-Reshteh-Recipe.jpg)]
+
 Iranian have a traditional type of that has herbals and beans in that and it is so popular.
 
 <strong>Ingredients:</strong>
